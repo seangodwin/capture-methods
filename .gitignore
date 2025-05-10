@@ -1,5 +1,7 @@
 # Plot image
 length_plot.tiff
+# This project file
+capture-methods.Rproj
 # History files
 .Rhistory
 .Rapp.history
@@ -15,7 +17,6 @@ length_plot.tiff
 # Output files from R CMD check
 /*.Rcheck/
 # RStudio files
-.Rproj
 .Rproj.user/
 # produced vignettes
 vignettes/*.html
@@ -36,4 +37,3 @@ docs/
 po/*~
 # RStudio Connect folder
 rsconnect/
-capture-methods.Rproj
