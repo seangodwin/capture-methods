@@ -8,5 +8,6 @@ Contents:
 1. `length_plot.R'
    
    Plots fork lengths of juvenile salmon across capture methods.
-3. length_data.csv
+2. 'length_data.csv'
+
    Fork-length data from each of the six capture methods. See manuscript for more detail on sources.
