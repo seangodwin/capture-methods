@@ -9,7 +9,9 @@ Citation: Godwin, S.C., Atkinson, E.M., Atkinson, J.B., Bartlett, M.C., Duguid, 
 ### Contents ###
 
 1. `length_plot.R`
-Plots fork lengths of juvenile salmon across capture methods.
-2. `length_data.csv`
+
+   Plots fork lengths of juvenile salmon across capture methods.
+   
+3. `length_data.csv`
 
    Fork-length data from each of the six capture methods. See manuscript for more detail on sources.
